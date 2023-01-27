@@ -13,6 +13,7 @@ Add your timetable
 ### STEP 4
 Execute the program
 CODE
+```
 <!DOCTYPE html>
 <html>
 
@@ -98,7 +99,7 @@ CODE
          
       </table>
 
-   
+ ```  
 
 
 
