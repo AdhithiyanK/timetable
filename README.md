@@ -24,8 +24,8 @@ CODE
       <table border = "1" cellspacing="1" bordercolor="blue" bgcolor="yellow">
       <img src="logo.png">
           <tr>
-            <th colspan="2"> NAME: v.thamaraiselvan</th> 
-            <th colspan="2"> REF NO:21001052</th>
+            <th colspan="2"> NAME: adhithiyan.k</th> 
+            <th colspan="2"> REF NO:22001999</th>
             <th colspan="4"> DEPT: ARTIFICIAL INTELLIGENCE AND DATA SCIENCE</th>
          </tr>
          <tr>
@@ -96,10 +96,7 @@ CODE
  </tr>
   
          
-    >
-      
-   </body>
-</html>
+      </table>
 
    
 
