@@ -100,10 +100,10 @@ CODE
       </table>
 
  ``` 
-##OUTPUT
+## OUTPUT
 ![Screenshot_20230127_092124](https://user-images.githubusercontent.com/121029258/215129368-cd47273b-612f-4b59-a191-7ec4d0c5c1ab.png)
 
-##RESULT
+## RESULT
 HTML CODE EXECUTED SUCCESSFULLY.
 
 
